@@ -90,6 +90,8 @@ Credit:
 |Avril Chen|a366chen@uwaterloo.ca|,
 |Vaishnavi Ratnasabapathy|vratnasa@uwaterloo.ca|
 
+Video Showcase: https://www.youtube.com/watch?v=Momsx-E4qz0
+
 
 MIT License
 
